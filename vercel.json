@@ -3,7 +3,7 @@
     "rewrites": [
       {
         "source": "/blog",
-        "destination": "https://screenshot-nine-rho.vercel.app"
+        "destination": "https://google.com"
       }
     ]
   }
